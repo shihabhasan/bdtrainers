@@ -1,0 +1,9 @@
+@charset "utf-8";
+#sidebar {
+	padding: 0 0 0 10px;
+	float: right;
+}
+.lmargin300 {
+	margin-left: 0;
+	margin-right: 300px;
+}

@@ -1,0 +1,5 @@
+Version 2.0.6:
+- Critical bug fix for some hosting environments
+
+Version 2.0:
+- Initial release

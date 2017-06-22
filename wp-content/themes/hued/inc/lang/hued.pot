@@ -1,0 +1,446 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-20 23:24+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:6
+msgid "404: Page Not Found!"
+msgstr ""
+
+#: comments.php:27
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:28
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: comments.php:29
+msgid "(Cancel Reply)"
+msgstr ""
+
+#: comments.php:30
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments Feed"
+msgstr ""
+
+#: comments.php:51
+msgid "&laquo; Older"
+msgstr ""
+
+#: comments.php:52
+msgid "Newer &raquo;"
+msgstr ""
+
+#: comments.php:81
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:95
+msgid "Contributor"
+msgstr ""
+
+#: comments.php:97
+msgid "Admin"
+msgstr ""
+
+#: comments.php:103
+msgid "Author/"
+msgstr ""
+
+#: comments.php:105
+msgid "(Author)"
+msgstr ""
+
+#: comments.php:119 inc/classes/post.php:112
+msgid "Edit"
+msgstr ""
+
+#: comments.php:127
+msgid " Login to reply. "
+msgstr ""
+
+#: functions.php:70
+msgid "Primary Navigation Menu"
+msgstr ""
+
+#: functions.php:85
+msgid "Authentication Required! Please enter the password to gain access."
+msgstr ""
+
+#: functions.php:86
+msgid "Password:"
+msgstr ""
+
+#: functions.php:88
+msgid "Submit"
+msgstr ""
+
+#: functions.php:97
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:99
+msgid "Widgets area located at the side."
+msgstr ""
+
+#: functions.php:107
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:109
+msgid "Widgets area (full width) located at the bottom."
+msgstr ""
+
+#: functions.php:117
+msgid "Post Widgets"
+msgstr ""
+
+#: functions.php:119
+msgid "Widgets area below post content."
+msgstr ""
+
+#: functions.php:164
+msgid "Handcrafted by "
+msgstr ""
+
+#: functions.php:164
+msgid "Creotix Themes"
+msgstr ""
+
+#: functions.php:206
+msgid " - Home\">"
+msgstr ""
+
+#: functions.php:223 functions.php:267
+msgid "View More"
+msgstr ""
+
+#: functions.php:246
+msgid "We're Social!"
+msgstr ""
+
+#: functions.php:278
+msgid "(No Title)"
+msgstr ""
+
+#: functions.php:283
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:284
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:285
+msgid "YouTube"
+msgstr ""
+
+#: functions.php:286
+msgid "Google+"
+msgstr ""
+
+#: functions.php:287
+msgid "LinkedIn"
+msgstr ""
+
+#: functions.php:288
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:289
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:290
+msgid "Skype"
+msgstr ""
+
+#: functions.php:291
+msgid "Feed"
+msgstr ""
+
+#: functions.php:299
+msgid "Sans Serif"
+msgstr ""
+
+#: functions.php:311 functions.php:314
+msgid "All Categories"
+msgstr ""
+
+#: inc/loop.php:16 inc/classes/single.php:15
+msgid "By "
+msgstr ""
+
+#: inc/admin/wp_customizer.php:6
+msgid "Hued Theme Options"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:7
+msgid "(Edit theme options and customize layout.)"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:14
+msgid "Appearance"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:16
+msgid "(Change theme appearance options.)"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:28
+msgid "Content Font:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:44
+msgid "Content Font Base Size (px):"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:64
+msgid "Featured Content on Home Page:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:70 inc/admin/wp_customizer.php:347
+msgid "Enable"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:71 inc/admin/wp_customizer.php:348
+msgid "Disable"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:83
+msgid "Featured content category:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:84
+msgid ""
+"(Posts assigned to selected category will be shown in featured content on "
+"home page, if enabled.)"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:100
+msgid "Sidebar location:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:106
+msgid "Left"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:107
+msgid "Hidden"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:108
+msgid "Right"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:120
+msgid "Footer widgets area:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:126 inc/admin/wp_customizer.php:146
+#: inc/admin/wp_customizer.php:166 inc/admin/wp_customizer.php:185
+msgid "Enabled"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:127 inc/admin/wp_customizer.php:147
+#: inc/admin/wp_customizer.php:167 inc/admin/wp_customizer.php:186
+msgid "Disabled"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:139
+msgid "Author info:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:140
+msgid "(author information below posts)"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:159
+msgid "Comments feed link:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:160
+msgid "(link to comments feed)"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:179
+msgid "Font Awesome:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:198
+msgid "Font Color:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:212
+msgid "Link Color:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:226
+msgid "Featured Content Background:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:227
+msgid "Gradient Color 1"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:241
+msgid "Gradient Color 2"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:251
+msgid "Logo and Favicon"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:253
+msgid ""
+"(Select custom logo and favicon image to display. If not selected, site name "
+"(in settings -> general) will be used as logo text.)"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:264
+msgid "Logo"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:265
+msgid "(max recommended height: 45px)"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:280
+msgid "Logo Font:"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:281 inc/admin/wp_customizer.php:298
+msgid "(Applicable only on text logo.)"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:297
+msgid "Logo Font Size (px):"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:317
+msgid "Favicon"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:328
+msgid "Social Links"
+msgstr ""
+
+#: inc/admin/wp_customizer.php:330
+msgid "(Links to social networking profiles.)"
+msgstr ""
+
+#: inc/classes/entries.php:16
+msgid "Sorry, no posts found!"
+msgstr ""
+
+#: inc/classes/entries.php:25
+msgid "Posts by "
+msgstr ""
+
+#: inc/classes/entries.php:28
+msgid "Category Archive: "
+msgstr ""
+
+#: inc/classes/entries.php:31
+msgid "Search Results for "
+msgstr ""
+
+#: inc/classes/entries.php:34
+msgid "Tag Archive: "
+msgstr ""
+
+#: inc/classes/entries.php:43
+msgid "&laquo; Newer Posts"
+msgstr ""
+
+#: inc/classes/entries.php:44
+msgid "Older Posts &raquo;"
+msgstr ""
+
+#: inc/classes/image-template.php:9
+msgid "Go back to "
+msgstr ""
+
+#: inc/classes/page.php:36
+msgid "Pages:"
+msgstr ""
+
+#: inc/classes/page.php:40
+msgid "Categories:"
+msgstr ""
+
+#: inc/classes/page.php:44
+msgid "Site Archives by Month:"
+msgstr ""
+
+#: inc/classes/post.php:108
+msgid "Last modified on "
+msgstr ""
+
+#: inc/classes/post.php:110
+msgid "Published on "
+msgstr ""
+
+#: inc/classes/post.php:113
+msgid "No Comments"
+msgstr ""
+
+#: inc/classes/post.php:113
+msgid "One Comment"
+msgstr ""
+
+#: inc/classes/post.php:113
+msgid "&darr;% Comments"
+msgstr ""
+
+#: inc/classes/post.php:122
+msgid "Filed under: "
+msgstr ""
+
+#: inc/classes/post.php:124
+msgid "View all posts in "
+msgstr ""
+
+#: inc/classes/post.php:130
+msgid "Tags: "
+msgstr ""
+
+#: inc/classes/post.php:194
+msgid "All posts by "
+msgstr ""
+
+#: inc/classes/post.php:194
+msgid "View all posts by "
+msgstr ""
+
+#: inc/classes/single.php:27
+msgid "&laquo; Previous"
+msgstr ""
+
+#: inc/classes/single.php:36
+msgid "Next &raquo;"
+msgstr ""
+
+#: inc/classes/single.php:50
+msgid ""
+"Error! Please try reloading the page, contact us if the problem persists."
+msgstr ""

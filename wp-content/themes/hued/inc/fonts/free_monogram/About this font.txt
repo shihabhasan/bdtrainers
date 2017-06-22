@@ -1,0 +1,23 @@
+Hey! Kelvin here!
+
+I made Free Monogram (beta) in response to the tangled (and not in a pretty way) mess that is font licensing with all those semi-commercial monogram fonts out there. Font licensing is a headache and monogram font licensing even more so, given that they're often used in settings that fall in the gray area between commercial and noncommercial use. Free Monogram is a curly monogram font licensed under the Gnu Public License (included in the download, if you got it from Dafont.com, it's named 'COPYING.txt') with the Font exception. This means that with a few exceptions, you're generally allowed to use, share, and even modify this font. Keep in mind:
+
+	—The font has big and small monographemes. To get your standard circle monogram, type your first and last grapheme (usually your first and middle initial) in lowercase, and the middle grapheme (usually your last initial) in uppercase. So to typeset KMS in Free Monogram, type
+
+			kMs
+
+	— Free Monogram is in beta. That means that it's a very early version (0.5) that may be refined in the future. Currently it only covers the English A–Z alphabet, with no numbers, symbols, or accents. If enough people show appreciation through donations, I might expand the font to include all those accents, ligatures, and maybe even Greek letters (preppy sororities and fraternities rejoice!). Be sure to check back on Dafont.com every now and then to see if there's been any updates!
+
+	—GPL means that the font is free to use by anyone, but the font must always remain free. So you can't package the font in something unfree—anything that includes it has to also be released under the GPL. The font exception means that you can still use the font in a document without releasing the document, so you don't really have to worry about this unless you are for example making an app that monograms stuff and want to charge money for it.
+
+	—GPL means that you're entitled to look at and modify the font's source code to your heart's content. If you downloaded Free Monogram from Dafont.com (and not one of those sketchy font sites), the download should include the source files (.sfd and .svg). The source code makes it easier for you to modify and extend the font, but do know that because of the GPL, you have to release your modified version under the same license. Important note—the source code is NOT THE FONT itself! The source code MAKES the font. The FONT is what makes the monographemes. If you install the source code instead of the font (.ttf or .otf) you will not see it in your font dialog!
+
+	—You're technically allowed to do this, but as the author I ask that you don't upload this font to sketchy aggregator sites like µfonts.com or fonts1001.com. The reason is that you never know what those sites will do to the font and people might download messed-up or tampered versions of Free Monogram, or versions missing the source code or license. Why go to an aggregator site when you can get the real thing for free from dafont.com?
+
+	—If you want an exemption from the GPL please contact me and we can work something out. This will be simplest if you're using the version I made, modified versions other people might make under the GPL will probably be a bit more complicated.
+
+	—I'm not a lawyer, please google the GPL if you're unsure about something.
+
+	—If this font made you happy, please show your appreciation by donating a small amount ($10–$50 is good) to me! The link is on the font page on dafont.com.
+
+			~ ♥ ~
